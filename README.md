@@ -54,6 +54,9 @@ You can run the project on your local system for that :
              --reporter-htmlextra-export ./newman/index.html
    ```
 
+## Github Pages ##
+You can directly view the latest test report of the Postman Test at the Github Page Link: https://somok96.github.io/Phoenix-In-Warranty-Flow/
+
 
 
 
