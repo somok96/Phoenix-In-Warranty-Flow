@@ -59,7 +59,7 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: Phoenix In Warranty Flow Test Execution Notification
           to: somokbackup@gmail.com
-          from: ${{ secrets.EMAIL_PASSWORD }}
+          from: ${{ secrets.EMAIL_USERNAME }}
           body: | 
                 Hi,
                 Phoenix In Warranty Flow has been executed. The Report has been published
